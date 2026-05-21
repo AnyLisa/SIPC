@@ -549,12 +549,12 @@ if __name__ == "__main__":
 
     app.setFont(font)
 
-    icon = QIcon("icon/SIPC.png")
+    #icon = QIcon("icon/SIPC.png")
 
-    app.setWindowIcon(icon)
+    #app.setWindowIcon(icon)
 
     window = MainWindow()
-    window.setWindowIcon(icon)
+    #window.setWindowIcon(icon)
 
     window.show()
 
